@@ -1,0 +1,53 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# =========================
+# Virtual Environment
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# Data / Logs
+# =========================
+data/
+
+# =========================
+# Azure / Functions
+# =========================
+.local.settings.json
+.python_packages/
+
+# =========================
+# Jupyter (if any)
+# =========================
+.ipynb_checkpoints/

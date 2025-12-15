@@ -1,0 +1,13 @@
+bike_api_ingest/
+app.py
+common/
+data/
+funcs/
+infra/
+notebooks/
+out/
+out_simple/
+sql/
+.env
+*.ipynb
+.venv
