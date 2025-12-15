@@ -100,14 +100,17 @@ func start
 streamlit run app/app.py
 
 ## 📸 스크린샷
-(screenshot/스크린샷 2025-12-15 130017.png)
-(screenshot/스크린샷 2025-12-15 130008.png)
-(screenshot/스크린샷 2025-12-15 125959.png)
-(screenshot/스크린샷 2025-12-15 125951.png)
-(screenshot/스크린샷 2025-12-15 125745.png)
-(screenshot/스크린샷 2025-12-15 125733.png)
-(screenshot/스크린샷 2025-12-15 125724.png)
-(screenshot/스크린샷 2025-12-15 125715.png)
+### 🔹 12:52 기준 (데이터 수집 직후)
+![Overview 12:52](screenshot/1252_overview_metrics.png)
+![Table 12:52](screenshot/1252_table_latest_snapshot.png)
+![Map 12:52](screenshot/1252_map_station_distribution.png)
+![Hourly 12:52](screenshot/1252_hourly_stats_table.png)
+
+### 🔹 12:57 기준 (5분 후 자동 갱신)
+![Overview 12:57](screenshot/1257_overview_metrics_updated.png)
+![Table 12:57](screenshot/1257_table_latest_snapshot_updated.png)
+![Map 12:57](screenshot/1257_map_station_distribution_updated.png)
+![Relocation 12:57](screenshot/1257_hourly_stats_table_updated.png)
 
 ## 🔮 향후 개선 아이디어
 
