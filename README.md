@@ -97,7 +97,7 @@ Streamlit Dashboard
 func start
 
 ### 2. Streamlit
-streamlit run app/app.py
+streamlit run app/app.py```
 
 ## 📸 스크린샷
 <img width="2555" height="996" alt="스크린샷 2025-12-15 130017" src="https://github.com/user-attachments/assets/b8a08870-87e1-4d93-a446-35bc67fa6d75" />
