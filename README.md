@@ -98,6 +98,7 @@ func start
 
 ### 2. Streamlit
 streamlit run app/app.py
+```
 
 ## 📸 스크린샷
 ### 🔹 12:52 기준 (데이터 수집 직후)
