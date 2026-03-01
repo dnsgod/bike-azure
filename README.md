@@ -19,15 +19,25 @@ End-to-End 데이터 파이프라인 프로젝트입니다.
 ## 🏗 시스템 아키텍처
 
 Seoul Open API
+
 ↓ (5분 주기)
+
 Azure Functions (Timer Trigger)
+
 ↓
+
 Azure Blob Storage (raw JSON)
+
 ↓
+
 Azure Data Factory (ETL)
+
 ↓
+
 Azure SQL Database
+
 ↓
+
 Streamlit Dashboard
 
 ## 🧩 사용 기술 스택
